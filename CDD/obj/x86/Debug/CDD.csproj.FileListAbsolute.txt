@@ -1,0 +1,10 @@
+c:\users\zhou\documents\visual studio 2010\Projects\CDD\CDD\bin\Debug\CDD.exe
+c:\users\zhou\documents\visual studio 2010\Projects\CDD\CDD\bin\Debug\CDD.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\CDD\CDD\obj\x86\Debug\CDD.Properties.Resources.resources
+c:\users\zhou\documents\visual studio 2010\Projects\CDD\CDD\obj\x86\Debug\CDD.csproj.GenerateResource.Cache
+c:\users\zhou\documents\visual studio 2010\Projects\CDD\CDD\obj\x86\Debug\CDD.exe
+c:\users\zhou\documents\visual studio 2010\Projects\CDD\CDD\obj\x86\Debug\CDD.pdb
+C:\Users\zhou\documents\visual studio 2010\Projects\CDD\CDD\obj\x86\Debug\CDD.csprojResolveAssemblyReference.cache
+C:\Users\zhou\Documents\Visual Studio 2010\Projects\CDD\CDD\obj\x86\Debug\CDD.Form1.resources
+C:\Users\brian\Desktop\CDD\CDD\obj\x86\Debug\CDD.exe
+C:\Users\brian\Desktop\CDD\CDD\obj\x86\Debug\CDD.pdb
